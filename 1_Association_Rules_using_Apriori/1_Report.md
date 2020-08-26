@@ -49,6 +49,9 @@ I wrote it with python3 of which version is 3.6.6.
 Put the apriori.py code fild and input.txt file in same directory.
 Run `python3 min_support input_txt output_txt` 
 The output.txt file will be generated in the same directory. 
+
+![ex_screenshot](./1_howtoruncode.png)
+
  
 
 
