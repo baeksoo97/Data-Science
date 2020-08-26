@@ -1,4 +1,4 @@
-# Data_Science
+# Data-Science
 This repository is for Data Science that I studied and implemented.
 
 ## Codes
