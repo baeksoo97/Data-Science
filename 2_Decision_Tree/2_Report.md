@@ -102,15 +102,21 @@ It takes data that is wanted to be investigated, training model , and method.
 It scans training model until it finds class label for data and returns class label.
 
 ## 3. How to run code
+[!screenshot](./2_howtoruncode_1.png)
+
+[!screenshot](./2_howtoruncode_2.png)
 
 ## 4. Other specification of implementation and testing
 I implement decision tree by three method. Information gain, gain ratio, and gini index.
 
 Basically, gini index method is set in my implementation if you do not add any arguments in command as below.
+[!screenshot](./2_specifications_1.png)
 
 If you add *information_gain* for 5th argument, decision tree would be implemented by information gain method. See below.
+[!screenshot](./2_specifications_2.png)
 
 If you add *gain_ratio* for 5th argument, decision tree would be implemented by gain_ratio method. See below.
+[!screenshot](./2_specifications_3.png)
 
 In case of second data set(Car_evaluation), gini index method is more accurate than the others so that’s why I set gini index method as default method.
 
