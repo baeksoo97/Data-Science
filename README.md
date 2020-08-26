@@ -4,10 +4,10 @@ This repository is for Data Science that I studied and implemented.
 ## Codes
 I implemented below algorithms. Please check each repository.
 
-1. Assiociation Rules using Apriori Algorithm
-2. Decision Trees
-3. Clustering using DBSCAN
-4. Recommendation
+1. [Assiociation Rules using Apriori Algorithm](https://github.com/baeksoo97/Data_Science/tree/master/1_Association_Rules_using_Apriori)
+2. [Decision Trees](https://github.com/baeksoo97/Data_Science/tree/master/2_Decision_Tree)
+3. [Clustering using DBSCAN](https://github.com/baeksoo97/Data_Science/tree/master/3_Clustering_using_DBSCAN)
+4. [Recommendation](https://github.com/baeksoo97/Data_Science/tree/master/4_Recommendation)
 
 ## Notes
 I noted the important things about Data Science like below in each markdown file in Korean.
