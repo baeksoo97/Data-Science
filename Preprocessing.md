@@ -118,4 +118,4 @@ data의 수를 줄이되 같은 data anlaysis 결과를 보여서는 안되는 D
 - binning
     - equal -width
     - equal -depth
-    -
+   
