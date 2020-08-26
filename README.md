@@ -12,13 +12,13 @@ I implemented below algorithms. Please check each repository.
 ## Notes
 I noted the important things about Data Science like below in each markdown file in Korean.
 
-1. Association
-2. Classification
-3. Data
-4. Clustering
-5. Outlier
-6. Data Concept Description
-7. Preprocessing
+1. [Association](https://github.com/baeksoo97/Data_Science/blob/master/Association.md)
+2. [Classification](https://github.com/baeksoo97/Data_Science/blob/master/Classification.md)
+3. [Data](https://github.com/baeksoo97/Data_Science/blob/master/Data.md)
+4. [Clustering](https://github.com/baeksoo97/Data_Science/blob/master/Clustering.md)
+5. [Outlier](https://github.com/baeksoo97/Data_Science/blob/master/Outlier.md)
+6. [Data Concept Description](https://github.com/baeksoo97/Data_Science/blob/master/Data_Concept_Description.md)
+7. [Preprocessing](https://github.com/baeksoo97/Data_Science/blob/master/Preprocessing.md)
 
 
 
